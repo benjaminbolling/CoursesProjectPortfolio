@@ -1,5 +1,5 @@
 # CoursesProjectPortfolio
-A portfolio of some courses' projects, taken at various universities. The respective abbreviations are defined in the list below.
+A portfolio of some courses' projects and the theses, taken at various universities. The respective abbreviations are defined in the list below.
 
 | Abbreviation | University |
 | ----- | ----- |
@@ -9,6 +9,19 @@ A portfolio of some courses' projects, taken at various universities. The respec
 | Kau | Karlstad University |
 | LiU | Linköping University |
 
+---
+
+## Theses
+
+### LU: Master thesis
+FYSM30. Not yet uploaded.
+
+### LU: Bachelor Thesis + continued work on the project
+FYSK02 + FYSB06. Not yet uploaded.
+
+---
+
+## Courses
 For access to a specific course's portfolio of projects, send me an email with a request and the purpose of the request.
 
 ### LU NTF014F, Physics: Applied Computational Physics and Machine Learning
@@ -19,9 +32,6 @@ Not yet uploaded.
 
 ### LiU ETE352, Cybersecurity - Fundamentals and Awareness
 Not yet uploaded.
-
-### LU: Bachelor Thesis + continued work on the project
-FYSK02 + FYSB06. Not yet uploaded.
 
 ### LU KEMM37, Scattering Methods (Chemistry)
 Not yet uploaded.
